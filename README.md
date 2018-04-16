@@ -1,4 +1,4 @@
-# aws-wrappers
+# AWS Wrappers
 AWS Wrappers contains some wrappers which provide features in order to make the management of Amazon S3 and Amazon SQS easier.
 
 # Dependencies
